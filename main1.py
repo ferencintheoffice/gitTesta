@@ -1,2 +1,2 @@
-def MuliplyInputNumber(inputNumber)
+def MuliplyInputNumber(inputNumber):
   return inputNumber*7
