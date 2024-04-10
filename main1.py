@@ -1,2 +1,2 @@
-def MuliplyInputNumber(inputNumber):
-  return inputNumber*7
+def greet(name):
+    return f"Hello, {name}!"
