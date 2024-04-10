@@ -1,3 +1,2 @@
-myNumber = 1
-
-print(myNumber)
+def MuliplyInputNumber(inputNumber)
+  return inputNumber*7
